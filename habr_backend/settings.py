@@ -61,7 +61,7 @@ INSTALLED_APPS = [
     'users',
     'articles',
     'django_filters',
-    
+    'drf_yasg',
     'djoser',
     'blog',  
 
